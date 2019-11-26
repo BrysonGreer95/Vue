@@ -1,5 +1,6 @@
 <template>
   <div id="app">
+    Hello Cameron.
     <SearchBar />
   </div>
 </template>
