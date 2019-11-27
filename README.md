@@ -22,7 +22,7 @@ When you know you're in the correct repository, run
 
 `npm install -g @vue/cli`. This may take a minute to install. 
 
-IF THIS FAILS, you are likely in the wrong directory, or you have a permissions issue. Use `ls` to see what folders exist in the directory you are currently in. This may help you realize you're in the wrong directory. If that doesn't help, try [Google](google.com).
+IF THIS FAILS, you are likely in the wrong directory, or you have a permissions issue. Use `ls` to see what folders exist in the directory you are currently in. This may help you realize you're in the wrong directory. If that doesn't help, try [Google](httpsd://www.google.com).
 
 Other errors that may occur: If the vue command still can not be recognized, even though you have installed the Vue CLI, run export PATH=$PATH:/Users/brysongreer95/.npm-global/bin in your terminal, but replace my username 'brysongreer95' with your own, which should be shown in your current working directory.
 
