@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     Hello Cameron.
-    Cameron is testing GitHub
+
     <SearchBar />
   </div>
 </template>
@@ -15,13 +15,13 @@ export default {
   },
 }
 </script>
-
 <style>
+
 #app {
   font-family: 'Avenir', Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  text-align: center;
+  text-align: right;
   color: #2c3e50;
   margin-top: 60px;
 }
