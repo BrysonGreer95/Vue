@@ -1,6 +1,7 @@
 <template>
   <div id="app">
     Hello Cameron.
+    Cameron is testing GitHub
     <SearchBar />
   </div>
 </template>
