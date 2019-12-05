@@ -60,3 +60,19 @@ Inside the src folder, there is a pretty file called `App.vue`. This is our main
 `npm run serve`. An internet browser should open and you should be able to see the Vue project! 
 
 I currently have this project to run on http://localhost:8080/ So just open your internet browser (CHROME), and type that link in to see the vue application! Any changes you make locally, will reflect on the localhost page.
+
+## API CALL
+console.developers.google.com
+new project
+enable api services
+search youtube
+youtube data api
+enable
+create credentials
+Youtube Data API v3, Web Browser (JS), Public Data
+Copy Key
+SAVE IT
+
+## Making API Calls
+You need axios
+So, npm install --save axios
